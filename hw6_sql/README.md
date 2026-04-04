@@ -42,6 +42,6 @@ This project demonstrates advanced SQL querying techniques including aggregation
 
 ## Files
 
-- `aggregation_queries.sql` — GROUP BY and HAVING queries
-- `subqueries.sql` — IN, EXISTS, ANY, ALL
-- `advanced_queries.sql` — correlated and scalar subqueries
+- `aggregation_queries.sql` — grouping, aggregation, and HAVING queries
+- `subqueries.sql` — nested subqueries using IN / EXISTS / ANY / ALL
+- `advanced_queries.sql` — scalar and correlated subqueries
